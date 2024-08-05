@@ -1,6 +1,6 @@
 # IMDB Scraper
 
-This project contains a set of scripts to scrape and process IMDB TV series data. The scripts perform the following tasks:
+This project contains a set of scripts to scrape and process IMDB data. The scripts perform the following tasks:
 
 1. **Fetch URLs** from an IMDB search page.
 2. **Extract movie IDs** from the fetched URLs.
